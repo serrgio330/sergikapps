@@ -1,0 +1,384 @@
+new day 2017-04-17
+[I][11:04:54.994]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][11:15:00.954]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][11:16:26.718]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][11:16:26.977]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+new day 2017-04-17
+[I][11:26:26.776]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][11:26:26.921]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][11:31:26.800]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+new day 2017-04-17
+[I][11:37:24.549]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][11:46:26.619]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][12:26:22.005]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][12:31:22.161]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+new day 2017-04-17
+[I][12:41:22.397]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][12:46:22.192]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][12:46:22.343]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+new day 2017-04-17
+[I][13:01:22.591]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][13:11:22.140]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][13:11:22.321]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+new day 2017-04-17
+[I][13:21:22.123]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][13:21:22.314]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][13:26:22.335]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][13:31:22.221]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][13:31:22.352]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+new day 2017-04-17
+[I][13:41:22.131]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][13:46:22.126]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][13:48:28.601]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][13:49:15.494]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][13:49:34.004]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][13:51:23.031]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][13:56:22.011]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][13:56:22.123]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][14:07:11.225]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][14:21:22.178]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][14:23:43.989]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+new day 2017-04-17
+[I][14:40:59.392]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][14:46:22.034]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[E][14:48:49.305]y:HttpClient is ready to do http!
+[E][14:48:49.317]y:HttpClient is ready to do http!
+[E][14:48:49.379]y:HttpClient is ready to do http!
+[E][14:48:49.593]callogFrame onYycrete==:do invite
+[E][14:48:49.835]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:49:23.345]y:HttpClient is ready to do http!
+[E][14:49:28.638]y:HttpClient is ready to do http!
+new day 2017-04-17
+[I][14:50:31.808]FeedbackFilLogger:2017-04-17 start
+
+[E][14:50:32.113]addFee:PackageMonitor registet AdFeeReceiver()
+new day 2017-04-17
+[I][14:50:32.337]FeedbackFilLogger:2017-04-17 start
+
+[E][14:50:35.935]y:HttpClient is ready to do http!
+[E][14:50:35.939]y:HttpClient is ready to do http!
+[E][14:50:35.979]y:HttpClient is ready to do http!
+[E][14:50:36.117]callogFrame onYycrete==:do invite
+[E][14:50:36.238]y:HttpClient is ready to do http!
+[E][14:50:36.334]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:50:36.908]UserContactManager:added phone = 34656287779
+[E][14:50:54.425]y:HttpClient is ready to do http!
+[E][14:50:57.450]mark:ContactProvider#CODE_SUB_PHONEBOOK:format_phone = ? AND raw_contact_id = linked_raw_contact_id
+[E][14:50:59.759]P2pCallActivity:callOut is random callfalse
+[E][14:50:59.759]P2pCallActivity:callOut is privacy free callfalse
+[E][14:51:04.860]P2pCallActivity:Call failed with CallEndReason: 1536
+[E][14:51:08.430]y:HttpClient is ready to do http!
+[E][14:51:09.880]y:HttpClient is ready to do http!
+[E][14:51:10.253]y:HttpClient is ready to do http!
+[E][14:51:10.255]y:HttpClient is ready to do http!
+[E][14:51:10.431]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:51:12.256]y:HttpClient is ready to do http!
+[E][14:51:13.200]y:HttpClient is ready to do http!
+[E][14:51:13.560]y:HttpClient is ready to do http!
+[E][14:51:13.560]LetUtil:notifyResultSuccess onOpSuccess is ready!
+new day 2017-04-17
+[I][14:51:21.888]FeedbackFilLogger:2017-04-17 start
+
+[E][14:51:22.282]y:HttpClient is ready to do http!
+[E][14:51:24.169]com.cmcm.ad.RewardPercentLogic:percent(normal): -1
+[E][14:51:24.170]com.cmcm.ad.RewardPercentLogic:mode: normal
+[E][14:51:24.172]com.cmcm.ad.RewardPercentLogic:mode: normal
+[E][14:51:24.219]y:HttpClient is ready to do http!
+[E][14:51:24.220]y:HttpClient is ready to do http!
+[E][14:51:24.454]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:51:25.834]y:HttpClient is ready to do http!
+[E][14:51:25.835]y:HttpClient is ready to do http!
+[E][14:51:26.007]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:51:26.217]y:HttpClient is ready to do http!
+[E][14:51:26.718]y:HttpClient is ready to do http!
+[E][14:51:26.878]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:51:26.879]y:HttpClient is ready to do http!
+[E][14:51:27.883]y:HttpClient is ready to do http!
+[E][14:51:35.790]y:HttpClient is ready to do http!
+[E][14:51:39.739]com.cmcm.ad.RewardPercentLogic:percent(normal): -1
+[E][14:51:39.740]com.cmcm.ad.RewardPercentLogic:mode: normal
+[E][14:51:39.742]com.cmcm.ad.RewardPercentLogic:mode: normal
+[E][14:51:55.547]y:HttpClient is ready to do http!
+[E][14:51:55.549]y:HttpClient is ready to do http!
+[E][14:51:55.738]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:51:57.553]y:HttpClient is ready to do http!
+[E][14:51:59.012]y:HttpClient is ready to do http!
+[E][14:51:59.184]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:51:59.187]y:HttpClient is ready to do http!
+[E][14:52:08.091]y:HttpClient is ready to do http!
+[E][14:52:08.198]y:HttpClient is ready to do http!
+[E][14:52:08.376]y:HttpClient is ready to do http!
+[E][14:52:08.398]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:52:11.977]com.cmcm.ad.RewardPercentLogic:percent(normal): -1
+[E][14:52:11.978]com.cmcm.ad.RewardPercentLogic:mode: normal
+[E][14:52:11.979]com.cmcm.ad.RewardPercentLogic:mode: normal
+[E][14:52:13.915]y:HttpClient is ready to do http!
+[E][14:52:13.918]y:HttpClient is ready to do http!
+[E][14:52:14.179]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:52:15.923]y:HttpClient is ready to do http!
+[E][14:52:17.280]y:HttpClient is ready to do http!
+[E][14:52:21.571]com.cmcm.ad.RewardPercentLogic:percent(normal): -1
+[E][14:52:21.572]com.cmcm.ad.RewardPercentLogic:mode: normal
+[E][14:52:21.574]com.cmcm.ad.RewardPercentLogic:mode: normal
+[E][14:52:22.892]y:HttpClient is ready to do http!
+[E][14:52:22.894]y:HttpClient is ready to do http!
+[E][14:52:23.058]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:52:24.902]y:HttpClient is ready to do http!
+[E][14:52:26.312]com.cmcm.ad.RewardPercentLogic:percent(normal): -1
+[E][14:52:26.313]com.cmcm.ad.RewardPercentLogic:mode: normal
+[E][14:52:26.315]com.cmcm.ad.RewardPercentLogic:mode: normal
+[E][14:53:20.898]y:HttpClient is ready to do http!
+[E][14:53:20.949]y:HttpClient is ready to do http!
+[E][14:53:20.953]y:HttpClient is ready to do http!
+[E][14:53:21.068]y:HttpClient is ready to do http!
+[E][14:53:21.068]y:HttpClient is ready to do http!
+[E][14:53:21.148]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:53:22.951]y:HttpClient is ready to do http!
+[E][14:53:26.110]mark:ContactProvider#CODE_SUB_PHONEBOOK:format_phone = ? AND raw_contact_id = linked_raw_contact_id
+[E][14:53:41.348]P2pCallActivity:callOut is random callfalse
+[E][14:53:41.348]P2pCallActivity:callOut is privacy free callfalse
+[E][14:53:43.361]P2pCallActivity:Call failed with CallEndReason: 1536
+[E][14:53:48.373]y:HttpClient is ready to do http!
+[E][14:54:52.360]mark:ContactProvider#CODE_SUB_PHONEBOOK:format_phone = ? AND raw_contact_id = linked_raw_contact_id
+[E][14:54:53.303]P2pCallActivity:callOut is random callfalse
+[E][14:54:53.303]P2pCallActivity:callOut is privacy free callfalse
+[E][14:54:54.933]P2pCallActivity:Call failed with CallEndReason: 1536
+[E][14:55:00.001]y:HttpClient is ready to do http!
+[E][14:55:31.886]z:CMAdClientLet is ready to do sign in!
+[E][14:55:31.890]com.cmcm.ad.CMAdClient:CMAdClient is ready to do sign in!
+[E][14:55:31.902]y:HttpClient is ready to do http!
+[E][14:55:32.252]com.cmcm.ad.CMAdClient:innnerSignIn onServerResponse resultCode is 0
+[E][14:55:32.252]com.cmcm.ad.CMAdClient:innnerSignIn onServerResponse onOpSuccess is ready!
+[E][14:55:32.267]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:55:32.279]y:HttpClient is ready to do http!
+[E][14:55:32.454]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:55:35.891]y:HttpClient is ready to do http!
+[E][14:55:35.921]y:HttpClient is ready to do http!
+[E][14:55:35.925]y:HttpClient is ready to do http!
+[E][14:55:36.067]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:55:36.071]y:HttpClient is ready to do http!
+[E][14:55:36.097]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:55:37.960]y:HttpClient is ready to do http!
+[E][14:55:45.021]y:HttpClient is ready to do http!
+[E][14:55:46.047]com.cmcm.ad.RewardPercentLogic:percent(normal): -1
+[E][14:55:46.047]com.cmcm.ad.RewardPercentLogic:mode: normal
+[E][14:55:46.049]com.cmcm.ad.RewardPercentLogic:mode: normal
+[E][14:55:46.099]y:HttpClient is ready to do http!
+[E][14:55:46.101]y:HttpClient is ready to do http!
+[E][14:55:47.447]y:HttpClient is ready to do http!
+[E][14:55:47.448]y:HttpClient is ready to do http!
+[E][14:55:47.587]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:55:47.991]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:55:48.103]y:HttpClient is ready to do http!
+[E][14:55:49.454]y:HttpClient is ready to do http!
+[E][14:56:02.418]y:HttpClient is ready to do http!
+[E][14:56:02.425]y:HttpClient is ready to do http!
+[E][14:56:02.589]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:56:04.430]y:HttpClient is ready to do http!
+[E][14:56:06.887]y:HttpClient is ready to do http!
+[E][14:56:06.891]y:HttpClient is ready to do http!
+[E][14:56:07.065]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:56:08.892]y:HttpClient is ready to do http!
+[E][14:56:25.711]com.cmcm.ad.RewardPercentLogic:percent(normal): -1
+[E][14:56:25.712]com.cmcm.ad.RewardPercentLogic:mode: normal
+[E][14:56:25.714]com.cmcm.ad.RewardPercentLogic:mode: normal
+[E][14:56:28.507]y:HttpClient is ready to do http!
+[E][14:56:28.510]y:HttpClient is ready to do http!
+[E][14:56:28.516]com.cmcm.ad.RewardPercentLogic:percent(normal): -1
+[E][14:56:28.517]com.cmcm.ad.RewardPercentLogic:mode: normal
+[E][14:56:28.518]com.cmcm.ad.RewardPercentLogic:mode: normal
+[E][14:56:28.745]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:56:30.005]y:HttpClient is ready to do http!
+[E][14:56:30.008]y:HttpClient is ready to do http!
+[E][14:56:30.186]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:56:30.510]y:HttpClient is ready to do http!
+[E][14:56:32.008]y:HttpClient is ready to do http!
+[E][14:56:44.459]y:HttpClient is ready to do http!
+[E][14:56:44.463]y:HttpClient is ready to do http!
+[E][14:56:44.631]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:56:46.457]y:HttpClient is ready to do http!
+[E][14:56:47.330]y:HttpClient is ready to do http!
+[E][14:56:47.335]y:HttpClient is ready to do http!
+[E][14:56:47.518]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:56:49.343]y:HttpClient is ready to do http!
+[E][14:56:51.149]y:HttpClient is ready to do http!
+[E][14:56:51.154]y:HttpClient is ready to do http!
+[E][14:56:51.328]LetUtil:notifyResultSuccess onOpSuccess is ready!
+[E][14:56:53.151]y:HttpClient is ready to do http!
+[E][14:56:59.535]mark:ContactProvider#CODE_SUB_PHONEBOOK:format_phone = ? AND raw_contact_id = linked_raw_contact_id
+[E][14:57:00.675]P2pCallActivity:callOut is random callfalse
+[E][14:57:00.675]P2pCallActivity:callOut is privacy free callfalse
+[E][14:57:01.328]P2pCallActivity:callOut is random callfalse
+[E][14:57:01.328]P2pCallActivity:callOut is privacy free callfalse
+[E][14:57:04.188]P2pCallActivity:Call failed with CallEndReason: 1536
+[E][14:57:09.208]y:HttpClient is ready to do http!
+new day 2017-04-17
+[I][15:05:40.856]FeedbackFilLogger:2017-04-17 start
+
+[E][15:05:41.326]addFee:PackageMonitor registet AdFeeReceiver()
+new day 2017-04-17
+[I][15:05:41.594]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][15:06:22.046]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][15:11:22.176]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][15:16:22.089]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][15:19:59.225]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][15:21:21.884]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][15:24:19.338]FeedbackFilLogger:2017-04-17 start
+
+[E][15:24:20.205]addFee:PackageMonitor registet AdFeeReceiver()
+new day 2017-04-17
+[I][15:24:20.500]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][15:26:22.288]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][15:31:07.974]FeedbackFilLogger:2017-04-17 start
+
+[E][15:31:08.512]addFee:PackageMonitor registet AdFeeReceiver()
+new day 2017-04-17
+[I][15:31:08.775]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-0004-17
+[I][15:31:22.034]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][15:41:22.012]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+new day 2017-04-17
+[I][15:46:56.768]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][15:48:34.351]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][15:51:22.209]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][15:56:22.130]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+new day 2017-04-17
+new day 2017-04-17
+[I][16:03:24.173]FeedbackFilLogger:2017-04-17 start
+
+[E][16:03:24.669]addFee:PackageMonitor registet AdFeeReceiver()
+new day 2017-04-17
+[I][16:08:31.919]FeedbackFilLogger:2017-04-17 start
+
+[E][16:08:32.426]addFee:PackageMonitor registet AdFeeReceiver()
+new day 2017-04-17
+[I][16:08:32.915]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][16:16:26.862]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][16:26:26.853]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][16:29:13.245]FeedbackFilLogger:2017-04-17 start
+
+[E][16:29:14.036]addFee:PackageMonitor registet AdFeeReceiver()
+new day 2017-04-17
+[I][16:29:14.320]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][16:32:33.078]FeedbackFilLogger:2017-04-17 start
+
+[E][16:32:34.659]addFee:PackageMonitor registet AdFeeReceiver()
+new day 2017-04-17
+[I][16:32:35.241]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][16:34:35.939]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][16:39:58.471]FeedbackFilLogger:2017-04-17 start
+
+new day 2017-04-17
+[I][17:06:44.701]FeedbackFilLogger:2017-04-17 start
+
